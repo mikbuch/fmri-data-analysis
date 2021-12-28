@@ -148,3 +148,9 @@ In order to reset (if needed/optional) during the process:
 rm -rf .git
 rm .gitattributes
 ```
+
+---
+
+Additional resources:
+
+ * 045 Introduction to Git LFS (Large File Storage) by Dan Gitschooldude: https://youtu.be/xPFLAAhuGy0
