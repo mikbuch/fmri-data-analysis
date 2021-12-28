@@ -142,7 +142,8 @@ git push -u origin main
 
 ---
 
-In order to reset:
+In order to reset (if needed/optional) during the process:
+
 ```
 rm -rf .git
 rm .gitattributes
