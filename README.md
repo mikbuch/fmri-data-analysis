@@ -4,6 +4,11 @@ Part of the materials from this repository is described in the publication by th
 
 Most of the data used in the examples in this repository come from a study by [Przybylski & Króliczaj, 2017; JINS, Cambridge University Press](https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/planning-functional-grasps-of-simple-tools-invokes-the-handindependent-praxis-representation-network-an-fmri-study/FA52E09E77D85F016BFBF04379CB8CAC).
 
+
+| ![image](https://user-images.githubusercontent.com/10733514/147957866-1558557b-5ae4-4b74-a93a-c07da219c80d.png) |
+|---|
+| Figure 1 from [Buchwald, 2021](https://cmst.eu/articles/functional-magnetic-resonance-imaging-signal-modelling-and-contrasts-an-example-of-manual-praxis-tasks/)|.
+
 ## Run jupter notebook
 
 ```
