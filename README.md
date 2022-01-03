@@ -1,12 +1,16 @@
 # General linear model for fMRI data analysis
 
+Part of the materials from this repository is described in the publication by the author -- [Functional Magnetic Resonance Imaging Signal Modelling and Contrasts: an Example of Manual Praxis Tasks](https://cmst.eu/articles/functional-magnetic-resonance-imaging-signal-modelling-and-contrasts-an-example-of-manual-praxis-tasks/) (Buchwald, 2021). In particular the Jupyter Notebook called [Functional magnetic resonance imaging signal modelling and contrasts](https://github.com/mikbuch/fmri-data-analysis/blob/main/Functional%20magnetic%20resonance%20imaging%20signal%20modelling%20and%20contrasts%20on%20the%20example%20of%20manual%20praxis%20tasks.ipynb) was used to calculate model parameters and visualize the results.
+
+Most of the data used in the examples in this repository come from a study by [Przybylski & Króliczaj, 2017; JINS, Cambridge University Press](https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/planning-functional-grasps-of-simple-tools-invokes-the-handindependent-praxis-representation-network-an-fmri-study/FA52E09E77D85F016BFBF04379CB8CAC).
+
 ## Run jupter notebook
 
 ```
 pipenv run jupyter notebook
 ```
 
-## Next steps
+## TODO
 
  1. Provide an exact description of the example data.
  2. Determine which trial form the complete run is the `single trial` that was extracted
