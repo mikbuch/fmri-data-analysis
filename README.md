@@ -25,7 +25,7 @@ pipenv run jupyter notebook
 
 LFS - large file storage
 
-Make sure that you have `git lfs` installed ([how-to install for macOS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)). In short: `brew install git-lfs`.
+Make sure that you have `git lfs` installed (how-to install for: [macOS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage), [Linux](https://github.com/git-lfs/git-lfs/wiki/Installation#debian-and-ubuntu)). In short: `brew install git-lfs`.
 
 ```bash
 git init
